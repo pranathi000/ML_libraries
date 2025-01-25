@@ -1,60 +1,63 @@
 Machine Learning Specialization - Course 1 Notebooks
 📘 Overview
+
 This repository contains Colab notebooks for Course 1 of the Machine Learning Specialization by Andrew Ng, focusing on practical implementation of machine learning concepts.
+
 🎯 Project Scope
-Notebook Implementation List
+
 We will implement 6-8 Colab notebooks covering key machine learning techniques:
 
-Linear Regression with One Variable
+## Linear Regression with One Variable
 
 Basic regression principles
 Single feature implementation
 
-
-Linear Regression with Multiple Variables
+## Data preprocessing
+  all the info about the data
+## Linear Regression with Multiple Variables
 
 Multi-feature regression
 Advanced modeling techniques
 
 
-Gradient Descent Implementation
+## Gradient Descent Implementation
 
 Optimization algorithm
 Cost function minimization
 
 
-Feature Scaling Techniques
+## Feature Scaling Techniques
 
 Normalization methods
 Feature transformation strategies
 
 
-Logistic Regression
+## Logistic Regression
 
 Binary classification
 Sigmoid function implementation
 
 
-Regularization Methods
+## Regularization Methods
 
 Preventing overfitting
 L1 and L2 regularization
 
 
-Decision Boundary Visualization
+## Decision Boundary Visualization
 
 Graphical representation
 Classification insights
 
 
-Model Evaluation Techniques
+## Model Evaluation Techniques
 
 Performance metrics
 Model comparison strategies
 
 
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 Programming Language: Python
 Key Libraries:
@@ -66,7 +69,7 @@ Pandas
 
 
 
-🚀 Getting Started
+# 🚀 Getting Started
 Prerequisites
 
 Python 3.7+
